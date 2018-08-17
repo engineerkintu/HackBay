@@ -39,7 +39,7 @@ ___
     * Included Swagger specifications. Copy paste the contents of swagger.yaml to [Swagger](http://editor.swagger.io).
     * Integrated a centralized app logging/monitoring system using `morgan`.
     * Used [esLint](https://eslint.org) for Javascript Style and Linting.
-    * ~~Include a working Dockerfile with the app directory.~~
+   
 ___
 
 ## INSTRUCTIONS
